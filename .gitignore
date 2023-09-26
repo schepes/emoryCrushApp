@@ -70,3 +70,19 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+
+
+# Python/CDK Backend
+#
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+*.egg
+*.venv/
+*.virtualenv/
+Pipfile.lock
+requirements.txt
+cdk.context.json
+cdk.out/

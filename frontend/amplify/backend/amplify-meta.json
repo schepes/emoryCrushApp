@@ -1,0 +1,14 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-emorycrush-dev-23812-authRole",
+      "UnauthRoleArn": "arn:aws:iam::588363827668:role/amplify-emorycrush-dev-23812-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::588363827668:role/amplify-emorycrush-dev-23812-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-emorycrush-dev-23812-deployment",
+      "UnauthRoleName": "amplify-emorycrush-dev-23812-unauthRole",
+      "StackName": "amplify-emorycrush-dev-23812",
+      "StackId": "arn:aws:cloudformation:us-east-1:588363827668:stack/amplify-emorycrush-dev-23812/450bc520-5c37-11ee-9d08-0e3518c606a3"
+    }
+  }
+}
